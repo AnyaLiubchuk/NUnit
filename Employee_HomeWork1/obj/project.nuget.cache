@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "hePOmJ+pSEKCqqENlWcfDdfvs6sQrVTfGEvMZbgzVqrf9oJIkskcp9tSv9k/Sdue3aX4Gx3OPNq/eh19nlrEuA==",
+  "success": true,
+  "projectFilePath": "E:\\COURSES\\C#\\Employee_HomeWork1\\Employee_HomeWork1\\Employee_HomeWork1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\nunit\\3.13.2\\nunit.3.13.2.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\nunit3testadapter\\3.17.0\\nunit3testadapter.3.17.0.nupkg.sha512"
+  ],
+  "logs": []
+}
